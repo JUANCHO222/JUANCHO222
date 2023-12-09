@@ -1,8 +1,8 @@
 # 💫 About Me:
 <p>¡Hola a todos! 👋 Soy Juan ManueL Miguel Isidro, un entusiasta estudiante de 21 años, residenciado en el hermoso Estado de México, México. Actualmente, estoy persiguiendo mi pasión en el mundo de la tecnología en el Tecnológico de Estudios Superiores de Jilotepec (TESJI), donde curso la carrera de Ingeniería en Sistemas Computacionales (ISIC) con una emocionante especialidad en CLOUD COMPUTING.</p>
-<br>
+
 <p>No solo me apasiona adquirir nuevos conocimientos, sino también ponerlos en práctica y participar en proyectos desafiantes que permitan aplicar mis habilidades y contribuir al crecimiento y éxito de cualquier empresa u organización.<br><br> ¡Estoy emocionado de formar parte de este emocionante mundo tecnológico y ansioso por ser parte de proyectos innovadores que transformen el futuro! Siempre listo para dar lo mejor de mí y construir un mañana mejor a través de la tecnología.</p>
-<br>
+
 <p>¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de trabajar juntos en un futuro cercano! 🚀
 </p>
 
