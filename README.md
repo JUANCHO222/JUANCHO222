@@ -17,3 +17,10 @@
     <img src="https://skillicons.dev/icons?i=c,cs,java,js,kotlin,php,python&perline=14" />
   </a>
 </p>
+
+<h3>Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,tailwind&perline=14" />
+  </a>
+</p>
