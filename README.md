@@ -33,6 +33,6 @@
 <h3>Software and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,json&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,json,spring,firebase,flask&perline=14" />
   </a>
 </p>
