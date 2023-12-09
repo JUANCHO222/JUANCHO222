@@ -13,37 +13,37 @@
 
 # 💻 Tech Stack:
 <h3>Languages, Libraries and Frameworks</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,js,kotlin,php,python,react&perline=14" />
   </a>
 </p>
 
 <h3>Design Tools, Libraries and Frameworks</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,materialui,tailwind&perline=14" />
   </a>
 </p>
 <h3>Database</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=14" />
   </a>
 </p>
 <h3>Software and Tools</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask&perline=14" />
   </a>
 </p>
 <h3>IDE</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,visualstudio,vscode&perline=14" />
   </a>
 </p>
-<p align="center"> 
+<p> 
   <div align="center">Visitor count</div>
   <div align="center">
     <img src="https://profile-counter.glitch.me/JUANCHO222/count.svg"/>
