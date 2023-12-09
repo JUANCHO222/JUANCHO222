@@ -9,7 +9,7 @@
 <img alt="Night Coding" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300px" height="300px" align="right"/>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100067552427418) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juan-manuel-miguel-isidro-365b74271) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100067552427418) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-miguel-isidro-365b74271) 
 
 # 💻 Tech Stack:
 <h3>Languages, Libraries and Frameworks</h3>
