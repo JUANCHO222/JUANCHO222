@@ -18,9 +18,15 @@
   </a>
 </p>
 
-<h3>Frontend</h3>
+<h3>Design tools, libraries and frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,materialui,tailwind&perline=14" />
+  </a>
+</p>
+<h3>Database</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=14" />
   </a>
 </p>
