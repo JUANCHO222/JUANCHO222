@@ -22,7 +22,7 @@
 <h3>Design Tools, Libraries and Frameworks</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,materialui,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,scss,bootstrap,html,materialui,tailwind&perline=14" />
   </a>
 </p>
 <h3>Database</h3>
