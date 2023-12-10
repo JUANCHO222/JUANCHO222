@@ -50,6 +50,6 @@
   </div> 
 </p>
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUANCHO222&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCHO222&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 
