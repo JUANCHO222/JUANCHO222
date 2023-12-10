@@ -28,19 +28,19 @@
 <h3>Database</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow&perline=14" />
   </a>
 </p>
 <h3>Software and Tools</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask,postman&perline=14" />
   </a>
 </p>
 <h3>IDE</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,eclipse,idea,visualstudio,vscode&perline=14" />
   </a>
 </p>
 <p> 
