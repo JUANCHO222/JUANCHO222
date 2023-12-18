@@ -13,7 +13,7 @@
 <h3>Languages, Libraries and Frameworks</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,js,kotlin,php,python,react,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,kotlin,php,python,react,vite&perline=14" />
   </a>
 </p>
 
