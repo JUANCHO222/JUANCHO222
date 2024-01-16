@@ -32,13 +32,13 @@
 <h3>Software and Tools</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask,nodejs,postman&perline=14" />
   </a>
 </p>
 <h3>IDE</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,eclipse,idea,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,eclipse,idea,visualstudio,vscode&perline=14" />
   </a>
 </p>
 <p> 
