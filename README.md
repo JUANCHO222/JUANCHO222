@@ -32,7 +32,7 @@
 <h3>Software and Tools</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask,nodejs,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,maven,spring,firebase,flask,django,nodejs,postman&perline=14" />
   </a>
 </p>
 <h3>IDE</h3>
